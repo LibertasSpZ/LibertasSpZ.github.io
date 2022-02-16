@@ -1,2 +1,2 @@
 # LibertasSpZ.github.io
-My website (in progress)
+My website (still in progress)
